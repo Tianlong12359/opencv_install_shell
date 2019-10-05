@@ -1,5 +1,4 @@
-
-cd /home/                                                                                                                                                             #改变安装目录
+cd $home                                                                                                                                                             #改变安装目录
 
 sudo apt install git cmake
 
